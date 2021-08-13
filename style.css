@@ -1,0 +1,42 @@
+.H
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 5px crimson;
+}
+.D
+{
+float: none;
+background-color: deepskyblue;
+padding: 10px;
+border-radius: 20px;
+color: black;
+box-shadow: 5px 5px 5px crimson;
+}
+.D2
+{
+font-size: 18px;
+}
+.OH
+{
+box-shadow: 5px 5px 5px crimson;
+font-size: 20px;
+}
+.footer
+{
+position: fixed;
+color: blue;
+bottom: 0px;
+width: 100%;
+background-color: whitesmoke;
+line-height: 3;
+text-align: center;
+}
+Canvas
+{
+border: 5px solid cyan;
+border-radius: 20PX;
+box-shadow: 5px 5px 5px crimson;
+margin-top: 150px;
+}
